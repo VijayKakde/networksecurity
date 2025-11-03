@@ -3,5 +3,3 @@ pandas
 requests
 pymongo
 certifi
-
--e .
